@@ -18,7 +18,6 @@
 
 3. Run the Flask app: python app.py
 
-4. 
 4. Open your web browser and go to the displayed URL (usually `http://localhost:5000`).
 
 5. Enter the text you want to summarize in the input field.
