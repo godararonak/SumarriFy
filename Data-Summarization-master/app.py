@@ -2,7 +2,7 @@ import requests
 from flask import Flask,render_template,url_for
 from flask import request as req
 
-
+// creating flask web application
 app = Flask(__name__)
 @app.route("/",methods=["GET","POST"])
 def Index():
