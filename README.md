@@ -1,5 +1,9 @@
 # Summarify - Text Summarization Web App
 
+A webapp based on flask framework using transformers of huggingFace to summarize input text.
+
+Project Deployed live at http://ronak10.pythonanywhere.com/ 
+
 ## Description
 
 "Summarify" is a Flask web application that utilizes the Hugging Face Transformers library to provide text summarization. Users can input text, set the desired maximum length for the summary, and the app will generate a summarized version of the input text using the BART-large-CNN model.
